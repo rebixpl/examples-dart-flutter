@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645783363442",
+    "firebase_url": "https://flash-chat-eaa6f.firebaseio.com",
+    "project_id": "flash-chat-eaa6f",
+    "storage_bucket": "flash-chat-eaa6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645783363442:android:fdbbecb7386139ae3207eb",
+        "android_client_info": {
+          "package_name": "co.sramars.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645783363442-3n53ccb82qt3guhjjuc3ur5l7m83puti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLhCR_MMRS-s90teTPnCjUszHt722SQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645783363442-3n53ccb82qt3guhjjuc3ur5l7m83puti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
